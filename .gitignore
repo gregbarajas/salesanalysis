@@ -50,5 +50,10 @@ MANIFEST
 
 # Per-project virtualenvs
 .venv*/
+venv*/
 .conda*/
 .python-version
+
+#Greg's exlusions
+
+*.csv
